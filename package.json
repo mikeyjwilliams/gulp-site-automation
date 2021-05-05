@@ -1,0 +1,23 @@
+{
+  "name": "gulp-site-automation",
+  "version": "0.0.1",
+  "description": "gulp automation tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyjwilliams/gulp-site-automation.git"
+  },
+  "keywords": [
+    "gulp",
+    "automation"
+  ],
+  "author": "Michael Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeyjwilliams/gulp-site-automation/issues"
+  },
+  "homepage": "https://github.com/mikeyjwilliams/gulp-site-automation#readme"
+}
