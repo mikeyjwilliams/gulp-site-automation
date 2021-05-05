@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mikeyjwilliams/gulp-site-automation/issues"
   },
-  "homepage": "https://github.com/mikeyjwilliams/gulp-site-automation#readme"
+  "homepage": "https://github.com/mikeyjwilliams/gulp-site-automation#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
