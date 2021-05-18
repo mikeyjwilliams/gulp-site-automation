@@ -1,0 +1,1 @@
+{"version":3,"sources":["base.scss","base.css"],"names":[],"mappings":"AAAA,aAAA;AAIA;EACE,gBAAA;ACFF;;ADKA;EACE,WAAA;ACFF","file":"base.css","sourcesContent":["/** @format */\n\n//*** base sass file\n\nbody {\n  background: blue;\n}\n\nh1 {\n  color: grey;\n}\n","/** @format */\nbody {\n  background: blue;\n}\n\nh1 {\n  color: grey;\n}"]}

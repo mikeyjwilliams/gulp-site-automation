@@ -22,7 +22,6 @@
   "homepage": "https://github.com/mikeyjwilliams/gulp-site-automation#readme",
   "devDependencies": {
     "autoprefixer": "^10.2.5",
-    "css-declaration-sorter": "^6.0.2",
     "fibers": "^5.0.0",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.0",
