@@ -25,7 +25,6 @@
     "css-declaration-sorter": "^6.0.2",
     "fibers": "^5.0.0",
     "gulp": "^4.0.2",
-    "gulp-clean": "^0.4.0",
     "gulp-postcss": "^9.0.0",
     "gulp-put": "^0.0.3",
     "gulp-sass": "^4.1.0",
